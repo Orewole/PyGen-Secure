@@ -1,9 +1,9 @@
 # 🔐 PyGen-Secure
 > A robust, randomized password generation tool for CLI environments.
 
-**Version:** 1.0.0  
-**Author:** [Your Name]  
-**License:** MIT
+**Name:** Emamuzo Adewole 
+**Matric No.:** 24/14671
+**Department:** Computer Science
 
 ## 📖 Project Overview
 **PyGen-Secure** is a utility designed to improve digital security by automating the creation of strong, high-entropy passwords. It eliminates the human bias involved in password creation by leveraging pseudo-random number generation.
